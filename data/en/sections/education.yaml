@@ -10,12 +10,12 @@ section:
   # hideTitle: true
 
 degrees:
-- name: Ph.D in Quantum Cryptography
+- name: M.S.C. in Multimedia Studies
   icon: fa-microscope
-  timeframe: 2016-2020
+  timeframe: 2004 - 2005
   institution:
-    name: ABC University of Technology
-    url: "#"
+    name: Ohio University
+    url: "https://www.ohio.edu"
     logo: /images/sections/education/tech_college.png
     # Can optionally show a different logo for dark theme
     # darkLogo: /images/sections/education/tech_college.png
